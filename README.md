@@ -92,9 +92,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [TMDB](https://www.themoviedb.org/) for providing the movie data API
 - React community for the amazing tools and libraries
 - All contributors who have helped shape this project
-
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/movie-explorer](https://github.com/yourusername/movie-explorer)
